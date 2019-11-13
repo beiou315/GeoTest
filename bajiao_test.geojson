@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "bajiao_test",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "test1", "class": "1st" }, "geometry": { "type": "Point", "coordinates": [ 12935704.711625553667545, 4851124.437881300225854 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Developer1", "class": "5st" }, "geometry": { "type": "Point", "coordinates": [ 12935805.171381434425712, 4851132.057583343237638 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "developer2", "class": "13st" }, "geometry": { "type": "Point", "coordinates": [ 12935822.616488743573427, 4851124.838918250054121 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "developer5", "class": "8st" }, "geometry": { "type": "Point", "coordinates": [ 12935809.382269404828548, 4851113.409365186467767 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "developer5", "class": "4st" }, "geometry": { "type": "Point", "coordinates": [ 12935826.827376713976264, 4851136.268471314571798 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Cooker1", "class": "1st" }, "geometry": { "type": "Point", "coordinates": [ 12935824.020118067041039, 4851031.597827463410795 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "developer", "class": "1st" }, "geometry": { "type": "Point", "coordinates": [ 12935830.83774621039629, 4851007.535610485821962 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "teacher", "class": "2st" }, "geometry": { "type": "Point", "coordinates": [ 12935725.966583883389831, 4851097.969442625530064 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "developer", "class": "2st" }, "geometry": { "type": "Point", "coordinates": [ 12935723.359843712300062, 4851043.829454426653683 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "test3", "class": "2st" }, "geometry": { "type": "Point", "coordinates": [ 12935714.938067769631743, 4851037.212344758212566 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "test", "class": "0st" }, "geometry": { "type": "Point", "coordinates": [ 12935795.546494644135237, 4851059.870932411402464 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "test", "class": "0st" }, "geometry": { "type": "Point", "coordinates": [ 12935764.065094098448753, 4851030.996272038668394 ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "driver", "class": "0st" }, "geometry": { "type": "Point", "coordinates": [ 12935828.231006037443876, 4851097.568405675701797 ] } }
+]
+}
